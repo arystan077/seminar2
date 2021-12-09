@@ -1,8 +1,11 @@
 a=0
 b=2
 c=5
-a = a + b
-b = c - a
-c = a + c
+x=a
+y=b
+z=c
+a = x + y
+b = z - x
+c = x+y+z
 print(a,b,c)
 
